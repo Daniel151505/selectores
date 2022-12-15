@@ -1,0 +1,13 @@
+#encabezado {
+    text-transform: uppercase;
+    color: purple;
+}
+
+.texto {
+    color: green;
+}
+
+/* WIN */
+#encabezado.texto {
+    color: tomato;
+}
