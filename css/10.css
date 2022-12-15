@@ -1,0 +1,20 @@
+/* a[href="http://www.google.com"] {
+    color: yellowgreen;
+} */
+
+/*
+Start
+a[href^="http"] {
+    color: yellowgreen;
+}
+ */
+
+/* 
+Finish
+a[href$=".com"] {
+    color: yellowgreen;
+} */
+
+input[type="tel"] {
+    border: 2px solid darkolivegreen;
+}
